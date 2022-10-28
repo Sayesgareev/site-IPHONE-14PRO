@@ -310,7 +310,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    transform: translateY(100%);
+    transform: translateY(-100%);
     transition: 0.3s ease;
   }
   .menu-open .menu {
@@ -351,7 +351,7 @@ body {
     padding: 20px;
     flex-direction: column;
   }
-  .footer-inner .logo {
+  .footer-inner .logo-img {
     margin: 15px 0;
   }
 }
